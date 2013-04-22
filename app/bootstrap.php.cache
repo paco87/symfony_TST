@@ -1,7 +1,7 @@
 <?php
 
 namespace { $loader = require_once __DIR__.'/autoload.php'; }
-
+//O to jest tez "JEszcze raz"
  
 namespace Symfony\Component\DependencyInjection
 {
