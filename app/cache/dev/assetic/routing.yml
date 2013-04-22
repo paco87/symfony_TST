@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'D:/Paco/WSTI 7 sem/OBRONA/WWW/symfony/app/config/routing_dev.yml'
